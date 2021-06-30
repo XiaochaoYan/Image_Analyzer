@@ -3,7 +3,7 @@
 
 Win10の利用したい方は”FrameAnalyzer_Win64.zip”をダウンロードしてください。
 
-*python3.0以上 以外のライブラリは必要ないです。
+*python3.0以上のべション 以外のライブラリは必要ないです。
 WIN10使用方法：
 1.".zip"のファイルを右クリックする。
 2."すべて展開"をクリックする。
@@ -16,7 +16,7 @@ WIN10使用方法：
 
 Mac又はUnixの方々は”FrameAnalyzer.py”をダウンロードしてください。
 
-*python 3.0以上のべションが必要です。
+*python 3.0以上のべション　と　OpenCVなどの第三者ライブラリが必要です。
 使用方法：
 1."pip"でopenCV/imageio/plotlyなどの必要なライブラリをインストールしてください。
 2.”FrameAnalyzer.py”を起動する。
