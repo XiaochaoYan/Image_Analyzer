@@ -3,7 +3,7 @@ Analyze an image based on color composition and visualize data in 3D. Developed 
 
 For Win10_64 Users:
 
-*NO python or any pre-requisite needed\
+*NO 3rd party library is needed other than python 3.0+ version.\
 1.Just download the "FrameAnalyzer_Win64.zip" file\
 2.unzip the file\
 3.run  "FrameAnalyzer.exe"\
@@ -13,7 +13,7 @@ For Win10_64 Users:
 
 For Mac/Unix/Linux Users:
 
-*python 3.0+ version needed\
+*python 3.0+ version and 3rd party libraries like OpenCV are needed.\
 1.download the "FramerAnalyzer.py"\
 2.using "pip" install OpenCV / imageio / plotly\
 3.you are good to go.
