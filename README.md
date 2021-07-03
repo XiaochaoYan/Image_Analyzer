@@ -15,5 +15,5 @@ For Mac/Unix/Linux Users:
 
 *python 3.6+ version and 3rd party libraries like OpenCV are needed.\
 1.download the "FramerAnalyzer.py" and "Pixel.py"\
-2.using "pip" install OpenCV / imageio / plotly .etc\
+2.using "pip" install OpenCV / imageio / plotly and etc.\
 3.you are good to go.
