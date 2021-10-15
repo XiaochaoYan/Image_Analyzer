@@ -18,6 +18,6 @@ For Mac/Unix/Linux Users:
 2.using "pip" install OpenCV / imageio / plotly and etc.\
 3.you are good to go.
 
-Algorithms / Packages used to improve performence.
-1.Divide & Conquer algorithm.
+Algorithms / Packages used to improve performence.\
+1.Divide & Conquer algorithm.\
 2.Python "multi-processing" package.
