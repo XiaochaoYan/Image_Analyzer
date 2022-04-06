@@ -22,6 +22,6 @@ Algorithms / Packages used to improve performence.\
 1.Divide & Conquer algorithm.\
 2.Python "multi-processing" package.
 
-Features to be added:
-1.Pattern Recognition
-2.Machine Learning based cultural aesthetic preference research system
+Features to be added: \
+1.Pattern Recognition \
+2.Machine Learning based cultural aesthetic preference research system \
